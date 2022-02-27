@@ -1,0 +1,30 @@
+Python opdracht: Gepast betalen met munten
+
+Probleemstelling:
+Hoe kun je een gegeven bedrag gepast betalen met zo weinig mogelijk euromunten?
+
+Voorbeeld:
+Zo kun je bijvoorbeeld 96 eurocent gepast betalen met 5 euromunten:
+
+(1 x 50 eurocent)
+(2 x 20 eurocent)
+(1 x 5 eurocent)
+(1 x 1 eurocent)
+
+Met minder munten lukt het dus niet.
+
+Opdracht:
+Maak in Python een programma dat het volgende zal moeten doen.
+
+- Vragen om het bedrag
+- Dat bedrag uitrekenen in bovengenoemde munt aantallen
+- Het resultaat netjes en overzichtelijk weergeven
+- Het programma moet de mogelijkheid bieden om nogmaals een bedrag in te voeren
+  of te stoppen
+
+Tips:
+Maak eventueel eerst even een opzet op papier van bijvoorbeeld de calculatie die je
+gaat gebruiken.
+
+Optioneel:
+Laat ook het juiste aantal afbeeldingen van de desbetreffende muntjes zien.
