@@ -34,9 +34,12 @@ If you want to convert a new amount of money, click on “Nieuw bedrag”
 
 ![screenshot_start](Showcase/screenshot_start.png?raw=true "Start calculation")<br>
 Start calculation
+
 ![screenshot_result1](Showcase/screenshot_result1.png?raw=true "Result")<br>
 Result
+
 ![screenshot_recalculate](Showcase/screenshot_recalculate.png?raw=true "Choose new selection")<br>
 Choose new selection
+
 ![screenshot_result2](Showcase/screenshot_result2.png?raw=true "New result")<br>
 New result
