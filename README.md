@@ -2,7 +2,7 @@
 
 ## The App
 
-Useful application from the Rea bank to calculate and show how many and which coins an amount of money consists of. Certain euro coins can also be excluded from the calculation because you can decide for yourself which coins you want to include in the calculation. 
+Useful application from the Rea bank to calculate and show which and how many coins an amount of money consists of. Certain euro coins can also be excluded from the calculation because you can decide which coins you want to include in the calculation. 
 
 For example, the app can be used during transactions to show which and how many coins to use to pay the change so no money will be wasted.
 
